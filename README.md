@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hola, soy Sergio 👋
 
-<!--
-**sergio620/sergio620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Desarrollador Javascript Full stack.
+<br/>
 
-Here are some ideas to get you started:
+- Todos mis proyectos están disponibles en []()
+- Puedes enviarme un correo a **sergio.rios0678@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Habilidades
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,git,github)](https://skillicons.dev)
+<br/>
+
+### Puedes contactarme en:
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/sergio-andres-rios-quispe-638688226/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
