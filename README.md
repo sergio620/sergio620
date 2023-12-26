@@ -3,7 +3,7 @@
 Soy Desarrollador Javascript Full stack.
 <br/>
 
-- Todos mis proyectos están disponibles en [https://portfolio-git-main-sergio-rios-projects.vercel.app/](https://portfolio-git-main-sergio-rios-projects.vercel.app/)
+- Todos mis proyectos están disponibles en [https://portfolio-sergio-rios-projects.vercel.app/](https://portfolio-sergio-rios-projects.vercel.app/)
 - Puedes enviarme un correo a **sergio.rios0678@gmail.com**
 
 ### Habilidades
