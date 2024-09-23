@@ -8,7 +8,7 @@ Soy Desarrollador Full stack.
 
 ### Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,rabbitmq,kafka,docker,postgres,java,html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,git,github)](https://skillicons.dev)
 <br/>
 
 ### Puedes contactarme en:
