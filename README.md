@@ -1,6 +1,6 @@
 ### Hola, soy Sergio 👋
 
-Soy Desarrollador Javascript Full stack.
+Soy Desarrollador Full stack.
 <br/>
 
 - Todos mis proyectos están disponibles en [https://portfolio-sergio-rios-projects.vercel.app/](https://portfolio-sergio-rios-projects.vercel.app/)
@@ -8,7 +8,7 @@ Soy Desarrollador Javascript Full stack.
 
 ### Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,git,github)](https://skillicons.dev)
 <br/>
 
 ### Puedes contactarme en:
